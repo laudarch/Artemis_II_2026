@@ -1,0 +1,174 @@
+[02:18:18] Alguma pessoa pretende iniciar o terceiro conjunto de exercícios nos próximos cinco a dez minutos?
+
+[02:18:29] Não há ônus; vão em frente.
+
+[02:18:34] Entendi.
+
+[03:09:38] Integrity Houston com checagem de comunicação.
+
+[03:10:01] Sim, era para você. Você me ouve com mais clareza agora?
+
+[03:10:42] Ok, quando saímos de Madrid, deveríamos ter feito a passagem de bastão para a KUS e não recebemos uma passagem de bastão clara por um tempo. Se você estiver tentando nos ligar, parece que estamos bloqueados no momento. Iremos, eventualmente, para Goldstone, mas queria que soubesse o que está acontecendo e também se há algo que você tenha para nós. Estamos em modo de escuta. Obrigado por nos avisar. Não estávamos cientes. Temos estado ocupados na cabine.
+
+[03:10:58] Bem, então desculpe ter te interrompido, e continue. É sempre ótimo ouvir você. Obrigado.
+
+[03:11:41] Integrity Houston, na verdade parece que temos este evento de preferência de tripulação para o Victor que está programado agora. Vocês ainda querem fazer isso?
+
+[03:12:09] É apenas sobre um dos laços Orion–Terra?
+
+[03:12:23] Sim, nós também privatizaríamos. Sim, por favor. Vou providenciar isso agora. Obrigado. OK, Wilco. E apenas para informar, o sinal também pode cair devido aos problemas que tivemos, mas parece ter ficado bem estável por alguns minutos.
+
+[03:12:33] Entendi, obrigado pelo aviso.
+
+[03:13:08] Houston, integridade no canal 1 para o download do acelerômetro.
+
+[03:13:25] Ok, primeiro no alto-falante COT de repente estamos recebendo esse retorno de áudio novamente. Há alguma chance de você consertar isso? Ah, acabou de desaparecer. Ok, nos avise se ouvi-lo de novo.
+
+[03:13:59] Na verdade, ele desapareceu porque acabamos de abaixar o volume. Eu não sabia disso. Para os acelerômetros do volante de inércia, com base na configuração do cabo que foi enviado a bordo, não posso conectar o cabo ao acelerômetro sem remover os acelerômetros do casco do veículo. Então o número de série 1012 no casco vai ter que ser removido toda vez que fizermos o download dele. Eu tentei reposicioná-lo, e o cabo simplesmente não permite fazê-lo sem remover os acelerômetros do casco do veículo.
+
+[03:14:35] Ok, Reed, você vai removê-lo e substituí-lo cada vez que precisar fazer isso. Sim, desculpe, é só com a peça O2; não há como fazer isso. E então, no próprio aplicativo, o acelerômetro do assento da tripulação Orion, o procedimento 28.3.300, 28.3.300, me avise quando você tiver isso aberto e eu te direi onde estou tendo um pouco de dificuldade.
+
+[03:14:39] Só um segundo.
+
+[03:15:07] E Reed, já tenho isso aberto; vocês podem confirmar que terminaram o exercício neste ponto? Nós concluímos o exercício e vocês podem ir para o passo 4 daquele procedimento.
+
+[03:15:12] Ok, já estou aqui.
+
+[03:15:41] Ok, passo 4, decimal 5, diz para selecionar todas as gravações concluídas na caixa de eventos e, em seguida, selecionar Baixar. Só quero ter certeza de que não estou fazendo isso na guia de Revisão. Estou fazendo isso na guia de Controle Principal. Se eu for para a guia de Revisão, não tenho nada para baixar.
+
+[03:16:05] Sim, podemos confirmar que está na guia de Controle. Ok, então, se eu estiver fazendo isso corretamente, não preciso ir para a guia de Revisão, então o passo 4 decimal 6 é desnecessário, correto?
+
+[03:16:23] Sim, Reed, a intenção ali é que, depois que elas forem baixadas, você as verá aparecer naquela aba de Revisão e poderá ver que foi bem-sucedido.
+
+[03:16:32] Ok, obrigado. Acho que lembro disso no volume 9. Ok, ótimo. Obrigado, Mark. Vou continuar trabalhando nisso.
+
+[03:16:37] Pode apostar. Obrigado.
+
+[03:17:00] E Mark, por algum motivo, mesmo você tendo terminado de transmitir, ainda há muita estática áspera vindo pelo alto-falante.
+
+[03:17:11] E parece que isso está concluindo o processo no Orion Earth Two.
+
+[03:17:24] Sim, Reed, também estamos ouvindo. Acreditamos que isso seja apenas decorrente de um sinal fraco com a estação terrestre sobre a qual estamos neste momento.
+
+[03:17:41] Ok, vamos desligar o Orion Earth 2, e se você conseguir chegar a uma boa estação terrestre mais tarde nesta noite e quiser ligá-lo de volta a partir do solo, agradeceríamos.
+
+[03:18:15] Ok, Reed, a 2 já está privatizada. Estamos trabalhando para inserir essa chamada do Teams; então devemos apenas abortá-la, cancelá-la? Não, não. Não devemos. Estamos nos preparando para conduzi-los na 2, então nos avise quando estiverem prontos.
+
+[03:18:30] Ok Victor, você está pronto para começar na contagem de dois.
+
+[03:19:06] E para Reed, quando puder, se alguém puder nos fornecer as leituras AGA, agradeceríamos.
+
+[03:19:23] Ok, estou transmitindo simultaneamente em OE1 e OE2. Não podemos falar com a Cynthia em ambas as linhas ao mesmo tempo neste momento. Aguarde. Se você precisar falar com Reed...
+
+[03:32:54] A integridade será uma cerveja, completa com a conferência no dois.
+
+[03:33:06] Entendido, Victor. Obrigado.
+
+[03:36:31] E Houston Integrity, prioridade baixa. Tentei abrir o Outlook, mas ele diz que está bloqueado, e eu só queria saber se vocês ainda estavam trabalhando nisso ou se isso era um entrave.
+
+[03:36:41] Sim, ainda estamos trabalhando nisso. Fomos interrompidos por aquela LOS.
+
+[03:36:59] Ok, ficaremos sem interferir. Avise-nos quando terminar. Ok, wilco.
+
+[03:38:48] Houston e Integrity, atualize a configuração da cabine quando for conveniente.
+
+[03:38:58] Estamos encerrando a transmissão para o DSN em cerca de 10 segundos. Nos encontraremos do outro lado.
+
+[03:39:04] Copiado, obrigado.
+
+[03:39:50] Ok, Christina, parece que voltamos para você. Pode seguir.
+
+[03:40:01] Sim, senhor, obrigado por isso. A configuração de trânsito da cabine foi concluída até a etapa 14, com exceção da etapa 15.
+
+[03:40:41] Faremos um levantamento fotográfico da cabine para isso; acredito que na próxima vez em que o tivermos agendado, ou se não houver nenhum agendamento, realizaremos durante a fase GRACE, provavelmente amanhã. E estamos de acordo com esse plano. Bom trabalho hoje.
+
+[03:41:08] Ótimo, obrigado. Uma coisa que vou acrescentar é que não tenho certeza de quanto as equipes em terra estão trabalhando na questão do PCD. Acho que nós, como tripulação, iremos encontrar maneiras de contornar ter apenas três PCDs para todas as funcionalidades. Uma coisa que provavelmente vai acontecer é que você receberá mais chamadas minhas para localizar itens de armazenagem, simplesmente porque às vezes é mais fácil perguntar a você do que emprestar um PCD quando todos estão ocupados.
+
+[03:41:13] Ok, cópia recebida, e acho que isso responde à pergunta se aquela última Hail Mary foi bem-sucedida.
+
+[03:41:29] Ah, sim, eu nunca te avisei, provavelmente porque não foi bem-sucedido.
+
+[03:41:40] Ainda não houve atividade no PCD com isso.
+
+[03:41:45] Ok, cópia de tudo. Obrigado.
+
+[03:42:20] E Mark, olhando ao redor, eu acho que os itens restantes para você antes de dizermos boa noite são as leituras da AGA. Eu as tenho quando você estiver pronto, bem como o horário em que as registrei. Foi logo após o exercício. Estamos prontos, e, de fato, temos uma pequena lista de pendências que também queríamos alinhar com você. Então prossiga com as leituras da AGA. Isso foi o primeiro na nossa lista. Excelente. Obrigado. O horário da leitura foi no dia de voo 1, às 7 horas.
+
+[03:42:24] quarenta minutos, CO2 1.1
+
+[03:42:47] O2 19.7, temperatura 73.9, pressão 14.3. Ok, copie tudo isso.
+
+[03:43:04] E também, a transferência de dados do acelerômetro está concluída. Esse é o nosso último item. Estamos prontos para o seu. E aquele foi um único acelerômetro, Christina.
+
+[03:43:15] Não, foi toda a atividade, então foram dois acelerômetros. Obrigado por esclarecer.
+
+[03:43:44] Ok, entendido. Obrigado. Ok, na nossa lista de itens dispersos, desconsideramos aquele segundo desdobramento da AGA mais cedo hoje e tivemos uma promessa vaga de que encontraríamos um tempo para fazê-lo mais tarde hoje. Estamos presumindo que isso não aconteceu, pois as coisas ficaram bem ocupadas, mas apenas queríamos verificar.
+
+[03:44:23] E, Mark, posso te avisar em alguns minutos, mas acredito que isso tenha sido feito de forma heroica pelo Ike durante a refeição do meio-dia. Vamos confirmar em instantes. Ok, obrigado por isso. Além disso, planejaremos a mudança de estado do ARS para colocá-lo em modo de repouso nesta noite a partir do solo. E então tivemos algumas coisas relacionadas a fotos. Existe um PCD para o qual essas fotos diárias do PAO foram enviadas?
+
+[03:44:26] que possamos estar procurando.
+
+[03:44:49] Ok, ótimo, obrigado. E então, vocês chegaram à lista de cenas do Nat Geo, ou à lista de tomadas hoje?
+
+[03:45:05] Na verdade, acho que isso está no seu cronograma pré-sono, então talvez vocês ainda não tenham chegado lá.
+
+[03:45:23] Você sabe, Mark, até agora a forma como temos lidado com isso é que estamos gravando bastante, e acho que você está certo: durante o pré-sono, quando entrarmos no ritmo, podemos começar a marcá-las.
+
+[03:45:33] Vamos investigar isso, mas avisaremos se você precisar ouvi-los à noite.
+
+[03:45:50] Ok, obrigado por isso, Christina. Se você tiver mais algum item para nós, pensamos em mais um para você.
+
+[03:46:13] Eu tenho apenas mais uma para você sobre a instalação do suporte de câmera dupla que o Victor fez. Podemos voltar atrás e apenas dar uma leve sacudida e puxar um pouco para confirmar que ainda parece que o suporte está bem encaixado?
+
+[03:46:46] Ok, ele acabou de confirmar que está bem encaixado e que esses fixadores estão apenas com aperto manual. Falando de IKE, ele concluiu a atividade secundária da AGA. Ótimo, obrigado. Certo, estamos prontos para o seu último item.
+
+[03:46:51] Ok, obrigado. Na verdade acabamos ficando com dois, ao que tudo indica. O primeiro é...
+
+[03:47:43] Fomos informados de que vocês vão aumentar a temperatura um pouco mais para ficar mais quente durante a noite. Quero ter certeza de que isso ainda vai acontecer. E, em segundo lugar, estávamos nos perguntando, para as operações restantes de descarregamento de água, se vocês vão fazer um agendamento rígido para amanhã. Em relação à temperatura, sim, pretendemos deixá-la mais quente esta noite para vocês. Precisamos acompanhar para entender se vamos realizar mais descarregamentos de água ou não, então não temos essa resposta neste momento. Entraremos em contato pela manhã com isso.
+
+[03:47:47] Isso é perfeito, senhora. Obrigado pela temperatura.
+
+[03:48:09] E Mark, com isso, a sua equipe Integrity, por enquanto, está pronta para encerrar a transmissão.
+
+[03:48:26] Desculpe, apenas um instante, Christina. Também estamos tendo alguns pensamentos de última hora aqui.
+
+[03:48:53] Integrity Hospital, só queria esclarecer uma coisa para Ike: você conseguiu providenciar aqueles kits de saliva para amanhã?
+
+[03:49:49] Ei, Huntsville, sim, o kit seco/slab já está implantado. Ele fica na parte inferior do BU, em plena vista, e teremos esses prontos para amanhã. Copiado, agradecemos. Muito obrigado.
+
+[03:50:18] Entegrity Houston, acho que temos nossas duas últimas coisas aqui. A primeira é, Ike, quando você implantou aquela AGA secundária, você registrou as leituras? E se registrou, você ainda as tem? E se não, podemos pegá-las amanhã.
+
+[03:50:27] É, ah...
+
+[03:51:01] Eu escrevi, de fato: peguei a nota da tripulação e incluí as leituras na nota da tripulação. Então espero que isso seja suficiente para o restante da missão e que não tenhamos que confirmar verbalmente cada atividade todas as noites. Entendemos que nos primeiros dias faz sentido, mas minha expectativa é que vocês vejam isso quando baixarem a nota da tripulação para aquilo. Se quiserem em formato verbal, também posso fazer. Se vocês quiserem que as HGA sejam sempre verbais, apenas nos informem.
+
+[03:51:05] Não, isso já basta, Victor.
+
+[03:51:17] Leva um tempo para conseguirmos essas notas da tripulação. É muito mais lento do que na estação, então ainda não vimos que elas estão por aí, mas tudo bem.
+
+[03:51:45] Por fim, precisamos reiniciar o ciclo de alimentação de ambos os ACUs e, em seguida, realizar um teste de voz 10 minutos depois. Se puderem colocar isso no trabalho quando for conveniente. Desculpe, foi meu erro. Faremos isso a partir do solo e, em seguida, realizaremos um teste de voz 10 minutos depois.
+
+[03:51:50] Copiado, confirme dado o dudet agora.
+
+[03:51:55] Sim, vamos colocar isso em prática agora.
+
+[04:03:24] Nada.
+
+[04:06:00] Integrity Houston com uma checagem de voz no canal 1.
+
+[04:06:35] Houston Integrity, recebemos você alto e claro. Alice. Você também está alto e claro. Mais uma ideia que tivemos: se o PCD-4 estiver conectado à energia, vamos deixá-lo desconectado durante a noite e, talvez, ele descarregue e nos dê algo para mais uma tentativa. No entanto, com isso, hoje foi mais um ótimo dia. Obrigado, pessoal, e vamos encerrar por hoje.
+
+[04:06:45] Ei, obrigado a você e à equipe, boa noite.
+
+[04:06:51] Boa noite. Até amanhã.
+
+[04:25:48] Houston, pronto para uma rápida pergunta de orientação. Estamos com você nisso. Ei, Mark, sei que bem antes de TLI tivemos o aviso de vazamento na cabine e vejo agora um aviso de detecção de vazamento na cabine desativada. Estou apenas me perguntando se isso é algum diagnóstico de problemas que vocês estão fazendo. É só que eu nunca tinha visto esse aviso antes.
+
+[04:25:53] Conferindo.
+
+[04:26:40] Li aquela indicação de vazamento na cabine que vocês tiveram antes do TLI. Estamos usando uma solução de contorno para tentar evitar que isso volte a aparecer enquanto mudamos os estados do ARS, e por isso desativamos a detecção por cerca de três minutos durante as alterações de estado, e ela foi reativada novamente. Então é por isso que vocês não viram isso antes.
+
+[04:26:45] Faz muito sentido, Mark. Estou contente por ter perguntado e obrigado, e tenha uma ótima noite aí.
+
+[04:26:50] Obrigado, senhor. Igualmente.
+

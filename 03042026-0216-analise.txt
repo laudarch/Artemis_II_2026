@@ -1,0 +1,120 @@
+A) "Fase atual mais provável"
+- 9. Cruzeiro translunar. Indícios: rotinas de bordo (exercício, download de dados, evento de preferência de tripulação), uso de estações de solo tipo DSN com repasses Madrid → KUS → Goldstone e ausência de atividades dinâmicas (queimas/insersões) no diálogo.
+
+B) "Resumo executivo"
+- Operações estáveis em cruzeiro com pequenas fricções operacionais de comunicações e um entrave de hardware no download de acelerômetros. Exercício concluído, checagem de comm restabelecida após handover imperfeito entre estações, evento privado para o Victor avançando em canal privatizado. Persistem ruído/estática por sinal fraco no sítio atual e limitação mecânica no acesso ao acelerômetro SN1012 (exige remover/reinstalar a cada download). Solicitação de leituras do AGA pendente. Riscos controlados e sem impacto crítico à missão até o momento.
+
+C) "Linha do tempo avaliada"
+- ✅ Planejamento e autorização para iniciar o 3º conjunto de exercícios; depois confirmado como concluído.
+- 🟨 Checagem de comunicação com relato de áudio inicialmente pouco claro.
+- 🟨 Handover Madrid → KUS não “limpo”; link agora estabilizado e próxima passagem prevista por Goldstone.
+- ✅ Agendamento de evento de preferência da tripulação (Victor) em canal Orion–Terra privatizado.
+- 🟨 Aviso de possível queda de sinal durante o evento devido a instabilidades recentes.
+- 🟨 Feedback no alto-falante COT; mitigado reduzindo volume (sintoma persiste como risco intermitente).
+- 🟨 Download de dados dos acelerômetros: limitação de interface/cabo obriga remoção do sensor SN1012 do casco para cada coleta; workaround aceito.
+- 🟨 Dúvidas pontuais no procedimento do app (aba Controle vs Revisão); sanadas em coordenação com o solo.
+- 🟨 Estática/“gravelly” no áudio atribuída a sinal fraco do sítio atual; mitigação ao desligar OE2 quando necessário.
+- ✅ Processo de transferência/atividade em OE2 aparentemente concluído.
+- 🟨 Continuidade do evento privado apesar de link marginal; gestão de loops OE1/OE2 com restrição (não falar com dois destinos simultaneamente).
+- ✅ Solicitação de leituras do AGA registrada para execução quando possível.
+
+D) "Riscos técnicos observados"
+- Handover entre estações de solo com intermitências: risco de quedas de link e chamadas perdidas, especialmente em eventos agendados.
+- Qualidade de áudio variável (estática/ruído “gravelly”) em sítios com sinal fraco; pode degradar coordenação tática.
+- Feedback no alto-falante COT recorrente; mitigação via volume não elimina causa-raiz.
+- Acelerômetro SN1012: necessidade de remoção/reinstalação a cada download devido a interferência mecânica/cabo e proximidade de componente O2; risco de desgaste de fixações/conectores, aumento de tempo de tarefa e potencial desalinhamento do sensor.
+- Gestão de múltiplos loops (OE1/OE2) e privatização: limitações de simultaneidade elevam carga cognitiva e risco de roteamento incorreto de comunicações.
+
+E) "Próximas fases prováveis"
+- Imediatas dentro do cruzeiro: 
+  - Completar downloads/validação dos acelerômetros e registrar lições sobre a limitação do SN1012.
+  - Fornecer leituras do AGA.
+  - Manter eventos de tripulação conforme janelas de link mais fortes (ex.: Goldstone).
+- Sequência de missão esperada:
+  - 10. Sobrevoo lunar / operações próximas à Lua.
+  - 11. Cruzeiro de retorno.
+  - 12. Preparação para reentrada.
+  - 13. Reentrada, amerissagem e recuperação.
+
+F) "Confiança da análise"
+- Média (não há marcadores temporais de queimas ou navegação que distingam claramente cruzeiro de retorno vs. cruzeiro de ida; contudo, o padrão de operações e repasses entre estações indica cruzeiro translunar).
+A) Fase atual mais provável
+4. Verificações de sistemas em órbita terrestre (FD1, pós-inserção), com passagens por estações do DSN e atividades de configuração/checagem de bordo antes de preparar a TLI.
+
+B) Resumo executivo
+A tripulação está em órbita terrestre, executando exercícios, configuração de cabine, checagens ambientais e transferências de dados. Houve instabilidades de comunicação em handovers entre estações (Madrid/KUS/Goldstone) e ruído de áudio, mitigadas com ajustes operacionais. A transferência de dados dos acelerômetros foi concluída, porém requer remoção recorrente de um sensor devido ao chicote/cabo inadequado. Um PCD permanece inoperante (PCD-4), reduzindo a margem de computação portátil; a tripulação adotou workarounds e tentará nova recuperação após drenagem total da bateria. Leituras ambientais estão nominais. Itens menores permanecem abertos (foto survey da cabine, definição de offload de água, sincronização lenta de “crew notes”). Encerramento do dia com ciclo de energia dos ACUs e checagem de voz bem-sucedidos.
+
+C) Linha do tempo avaliada
+- ✅ Exercício: terceiro conjunto coordenado e concluído.
+- 🟨 Comunicações: handover Madrid → KUS não “limpo” e áudio granulado; estabilidade melhorou ao longo das passagens e com ajustes de volume.
+- ✅ Evento de preferência de tripulação/PAO: chamada privatizada no OE2/Teams executada (com risco de queda comunicado).
+- 🟨 Orion Earth 2: desligado temporariamente por ruído estático; reativação planejada em cobertura melhor.
+- 🟨 Download de acelerômetros (assento/volante): atividade concluída para dois sensores; porém cabo exige remover o SN 1012 do casco sempre que baixar dados.
+- 🟨 Cabin transit config: concluída exceto passo 15 (foto survey), a ser feito no próximo período (GRACE).
+- ❌ PCD-4 inoperante; “Hail Mary” sem sucesso; workaround com 3 PCDs e suporte do solo; tentativa de drenagem total overnight para nova recuperação.
+- ✅ Leituras ambientais (AGA): CO2 1,1; O2 19,7%; T 73,9 °F; P 14,3 psi – dentro do esperado.
+- ✅ Secundário AGA deploy realizado (Ike); leituras registradas em crew notes.
+- 🟨 ARS para modo “sleep”: alteração planejada do solo para a noite (pendente à hora do diálogo).
+- 🟨 Outlook bloqueado no PCD por LOS: solo ainda trabalhando; tripulação “hands off”.
+- ✅ Suporte de filmagem e bracket duplo de câmera verificado firme (apertos manuais).
+- 🟨 Offload de água: decisão/agenda ainda em definição; retorno do solo planejado.
+- ✅ Power cycle de ambos ACUs feito do solo e checagem de voz OK.
+- ✅ Kits de saliva preparados para amanhã.
+- ✅ Passagem para DSN (Goldstone) restabelecida com comunicação clara no fechamento do período.
+
+D) Riscos técnicos observados
+- PCD-4 indisponível (perda de 25% da capacidade de PCDs): impacto em timeline, acesso a procedimentos/fotos/apps; risco moderado, mitigado por compartilhamento de PCDs e suporte do solo. Ação: tentar recuperação após drenagem; planejar priorização de apps por PCD; canais alternativos para produtos (ex.: ditado/voz).
+- Interface de download dos acelerômetros: necessidade de remover o sensor SN 1012 a cada coleta aumenta risco de desgaste mecânico/roscas e tempo de tarefa. Ação: agrupar coletas para reduzir ciclos, registrar torque/contagem de remoções, avaliar rota alternativa de cabeamento/posição do conector se possível.
+- Intermitência nas comunicações e áudio granulado em algumas bases (handover Madrid/KUS; sinal fraco): risco em coordenações críticas/privatizações. Ação: alinhar janelas de alta prioridade com melhores sites (Goldstone), uso de headsets/volume otimizado, checagens pré-evento.
+- Sincronização lenta de “crew notes” e Outlook bloqueado: atrasa confirmação de leituras/execuções. Ação: estabelecer call-down verbal para itens críticos até estabilizar a sincronização; explorar vias alternadas de uplink/downlink de arquivos.
+- Itens de configuração pendentes (foto survey) e indefinição sobre offload de água: riscos menores de cronograma/massa; acompanhar fechamento.
+
+E) Próximas fases prováveis
+- Concluir pendências de verificação em órbita terrestre (foto survey da cabine; ARS em modo sleep; sincronização de notas; decisão sobre offload de água).
+- Continuidade de demonstrações/filmagens (PAO/NatGeo) e “GRACE phase”.
+- Preparação para TLI: consolidar saúde de sistemas, confirmar plano de comunicações em janelas estáveis, fechar anomalias abertas (PCD-4) ou aceitar workaround.
+- TLI e transição para cruzeiro translunar quando os gates estiverem verdes.
+
+F) Confiança da análise
+Alta.
+A) Fase atual mais provável
+- 9) Cruzeiro translunar (pós-TLI), fim do Dia de Voo 1, em regime de operações rotineiras e pré-sono.
+
+B) Resumo executivo
+- A tripulação encerra o DV1 em cruzeiro translunar após TLI, com ECLSS/ambiente de cabine dentro da faixa nominal. Comunicações via DSN ficaram estáveis após alguns handovers com ruído/intermitência. A atividade de download dos acelerômetros foi concluída, porém com limitação física de acesso ao sensor no casco. Um PCD permanece inoperante (PCD-4), reduzindo a margem de tablets e exigindo workarounds operacionais. Alerta de “cabin leak” visto antes do TLI está sendo mitigado com um procedimento temporário (desativação breve da detecção durante mudanças de estado do ARS) para evitar reenunciação; risco entendido e controlado. Vários itens de rotina (bracket de câmera, kits de saliva, AGA secundária, ciclo de energia dos ACUs e checagem de voz) concluídos. Pendências menores incluem levantamento fotográfico de cabine e definição do plano de offload de água.
+
+C) Linha do tempo avaliada
+- ✅ Conjunto 3 de exercícios autorizado e concluído.
+- 🟨 Handover Madrid → KUS sem “clean handover”; depois travou em link e seguiu para Goldstone.
+- 🟨 Feedback/estática no alto-falante COT; mitigado reduzindo volume e com melhores sites de solo.
+- 🟨 Download de acelerômetros: cabo obriga remover o acelerômetro SN 1012 do casco para cada coleta; procedimento ajustado e entendimento confirmado.
+- ✅ Transferência dos dados dos 2 acelerômetros concluída; validação via aba Review.
+- 🟨 OE2 privatizado para evento de preferência/Teams; link com ruído em site fraco, depois estabilizado.
+- 🟨 Outlook bloqueado no PCD; trabalho em andamento (LOS interrompeu). Sem impacto crítico imediato.
+- ✅ Reconfiguração de trânsito da cabine quase completa (faltando etapa 15); levantamento fotográfico adiado para fase GRACE.
+- ✅ Leituras AGA (DV1 7:40): CO2 1.1; O2 19.7; T 73.9°F; P 14.3 psi – dentro da faixa nominal.
+- ✅ AGA secundária realizada (Ike); leituras registradas em Crew Note.
+- ✅ Bracket de câmera dupla verificado (bem assentado; fixadores “hand-tight”).
+- ✅ Planejado ARS para modo “sleep” a partir do solo; execução coordenada.
+- 🟨 Operações de offload de água: decisão/agendamento para amanhã ainda em definição.
+- ❌ PCD-4 sem atividade; tentativa anterior (“Hail Mary”) fracassou; novo tentame via descarga completa durante a noite.
+- ✅ Ciclo de energia dos ACUs feito do solo e check de voz após 10 min: “loud and clear”.
+- 🟨 Alerta “cabin leak detect off” explicado: detecção desabilitada por ~3 min durante mudança de estado do ARS para evitar reenunciação do alerta pré-TLI; reabilitado depois.
+
+D) Riscos técnicos observados
+- ❌ PCD-4 inoperante: perda de um terminal de bordo reduz flexibilidade/eficiência, aumenta dependência do solo para referências (stowage, fotos). Workarounds em uso.
+- 🟨 Acesso físico ao acelerômetro do casco (SN 1012) exige remoção recorrente: risco de desgaste/tempo extra e potencial de FOD/manuseio em área sensível.
+- 🟨 Intermitências/ruído em handovers DSN (Madrid/KUS/Goldstone): risco de impactar coordenação em janelas curtas; mitigado por planejamento de sites e “listen mode”.
+- 🟨 Detecção de vazamento de cabine temporariamente desabilitada durante transições do ARS: risco pequeno e controlado (janela curta ~3 min), mas requer disciplina operacional.
+- 🟨 Latência para baixar Crew Notes e bloqueio de Outlook: pode atrasar confirmações/documentação.
+- 🟨 Pendência de levantamento fotográfico (etapa 15) e definição do plano de offload de água: baixo impacto se resolvidos nas próximas janelas.
+
+E) Próximas fases prováveis
+- Continuação do 9) Cruzeiro translunar com TCMs/ajustes de navegação conforme necessário.
+- Execução da fase GRACE (inclui levantamento fotográfico de cabine pendente).
+- Troubleshooting adicional do PCD-4 (descarga total e nova tentativa de recuperação).
+- Confirmação/planejamento das operações de offload de água.
+- Preparação para 10) Sobrevoo lunar (revisões de procedimentos, verificação de sistemas e timeline mídia/PAO).
+
+F) Confiança da análise
+- Alta. Evidências explícitas de TLI já ocorrido, operações típicas de cruzeiro, parâmetros ambientais nominales e itens de rotina/pré-sono indicam com clareza a fase atual.
