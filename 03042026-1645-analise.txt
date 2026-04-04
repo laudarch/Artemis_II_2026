@@ -1,0 +1,64 @@
+A) "Fase atual mais provável"
+9. Cruzeiro translunar
+
+B) "Resumo executivo"
+A tripulação está em cruzeiro translunar após um TLI altamente preciso no dia anterior. O primeiro ajuste de trajetória (OTC‑1) foi cancelado por não ser necessário, indicando boa convergência de navegação e preservação de propelente. Operações predominantes no momento são de navegação óptica e organização/estivagem interna. Não há anomalias operacionais relevantes; apenas pontos de atenção típicos de logística a bordo e de cronograma.
+
+C) "Linha do tempo avaliada"
+- ✅ TLI do dia anterior foi “tão preciso” que o OTC‑1 (8 s) foi cancelado; desempenho de navegação acima do esperado e economia de propelente.
+- ✅ Início dos processos de navegação óptica; ajuste do cronograma de exercícios aceito pela tripulação sem impacto operacional.
+- ✅ Coordenação solo-bordo sobre plano de empacotamento; atualização diária garantida e rastreabilidade reforçada pelos reportes detalhados.
+- ✅ Reconfiguração de estiva: Bag 1 no armário D esvaziada e destinada a lixo; já contém dois sacos — housekeeping em curso e controlado.
+- ✅ Itens NatGeo (câmeras/acessórios) realocados para CTB correto (F/ Foxtrot 2), com confirmação de cópia pelo solo.
+- 🟨 Pequena confusão de nomenclatura (“Bob 3 de 3, dias 7–10”) prontamente corrigida — risco baixo, mitigado pela comunicação.
+- ✅ Localização das JSBs (bolsas de urina de contingência) registrada sob a rede do ECLSS atrás do assento 4 — prontidão de ECLSS confirmada.
+- 🟨 Uma bolsa reaproveitada para água está “flutuando” acima do armário Echo sob o assento 1 — item não contido pode representar risco menor de interferência/impacto; ação: prender/estivar.
+- ✅ Tripulação e MCC alinhados quanto a mais movimentações (BRAVO 1, Foxtrot), com flexibilidade de espaço e rastreabilidade contínua.
+
+D) "Riscos técnicos observados"
+- Estiva dinâmica e múltiplas rearmazenagens: risco moderado de erro de localização/tempo perdido; mitigação em curso via atualização diária do packing plan e callouts detalhados.
+- Item de água “flutuante” não contido: risco menor de contato inadvertido com painéis, cabos ou fluxo ECLSS; recomendável fixar/ancorar.
+- Cancelamento do OTC‑1 reduz uma oportunidade de correção inicial; dependência de precisão residual e de janelas subsequentes (OTCs seguintes). Mitigado por solução de navegação óptica e rastreio contínuo.
+
+E) "Próximas fases prováveis"
+- Continuação do cruzeiro translunar com navegação óptica e monitoramento de trajetória.
+- Possíveis queimas de correção subsequentes (ex.: OTC‑2) se os dados de navegação indicarem necessidade.
+- Preparativos e execução do sobrevoo lunar/ops próximas à Lua (apontamentos, comunicações, janela de queimas associadas se aplicável).
+- Cruzeiro de retorno, seguido de preparação para reentrada e recuperação.
+
+F) "Confiança da análise"
+Alta
+A) Fase atual mais provável
+- 9. Cruzeiro translunar
+
+B) Resumo executivo
+- A tripulação está em cruzeiro translunar após uma TLI muito precisa, o que permitiu cancelar o burn de correção de trajetória (OTC‑1). Operações internas predominam: organização/estiva de carga, exercícios, testes de comunicações e preparação para uma demonstração de RCP em microgravidade. Houve um aviso de orientação e uma pequena manobra de atitude disparados por configuração de solo durante o procedimento de cancelamento do burn; efeito contido e corrigido. Um problema de conectividade Bluetooth impediu a aquisição de ECG hoje; atividade adiada. Parâmetros ambientais de cabine estão nominais. Replanejamentos leves no cronograma para acomodar navegação óptica, exercícios e testes de S‑band/DSN.
+
+C) Linha do tempo avaliada
+- ✅ Estiva/organização: Bag 1 esvaziada e convertida para lixo; itens NatGeo e BOBs realocados; plano de empacotamento atualizado via uplink diário.
+- ✅ Início de processos de navegação óptica; ajuste do plano de exercícios para acomodar.
+- ✅ TLI “ontem” muito precisa; OTC‑1 (8 s) cancelado por não ser necessário.
+- 🟨 Procedimento de cancelamento de burn: surgiram “caution” ORG guidance não convergida e manobra de atitude não planejada por não configurar o software de cycling; causa entendida, sem ação de tripulação; SAWs em condição segura e atitude restabelecida.
+- ✅ Exercícios coordenados com o Controle; leituras ambientais pré/pós-exercício nominais (O2 ~20%, CO2 1,5→1,0, T ~73–76 °F, P ~14,3 psi).
+- 🟨 Contenção de “mags”: necessidade de três níveis de contenção; tripulação ajustará (reembalar em saco de lixo/Ziploc extra).  
+- ❌ ECG: sem conexão Bluetooth estável mesmo após carga, tentativa de “esquecer/reparear” e verificação no app; atividade encerrada por hoje.
+- ✅ Estiva adicional: câmeras NatGeo/GoPro MAX e JSBs reordenadas; rastreamento confirmado.
+- 🟨 “Blizzard” (descarga de águas residuais): autorizado e coordenado; execução não confirmada no áudio disponibilizado.
+- ✅ Replanejamento: conferência com Flight Director cancelada; S‑band SAT Mode DFO deslizado +30 min; DSN EMERCOM DFO mantido no horário.
+- ✅ Oportunidade científica/fotográfica: janelas favoráveis para Terra e Lua durante a refeição; recomendada capota na janela 2 para reduzir brilho.
+- ✅ Preparação para demo de RCP durante período de LOS: verificado “coast default 4100”; quatro SAWs comandadas para Safe Harbor A; pronto para iniciar a demo.
+
+D) Riscos técnicos observados
+- 🟨 Procedimento de cancelamento de queima: configuração de solo incompleta acionou aviso e manobra de atitude. Risco controlado; lição aprendida para próximas execuções. Potenciais impactos se recorrente: apontamento, geração de energia/thermal e cronograma.
+- 🟨 Perda temporária da capacidade de registrar ECG via Bluetooth: impacto baixo na segurança imediata, mas perda de dados médicos/científicos. Mitigações sugeridas para próxima janela: carregar o tablet >50%, reiniciar app/dispositivo, alternar Bluetooth/“airplane mode”, verificar/umidificar eletrodos, tentar outro dispositivo designado, checar pareamento exclusivo/firmware.
+- 🟨 Operações de SAW em Safe Harbor para a demo de RCP: pequena redução de margem de potência; monitorar balanço de energia durante atividades simultâneas.
+- 🟨 Descarte de águas residuais (se executado): risco de contaminação de superfícies/câmeras e restrições de atitude; continuar coordenação fina com navegação e thermal.
+- 🟨 Integração de navegação óptica/comandos de comunicação com janelas de LOS/DSN: risco de “churn” no cronograma; mitigado por coordenação ativa solo-bordo.
+
+E) Próximas fases prováveis
+- Continuação do cruzeiro translunar com navegação óptica, monitoramento de consumíveis e eventuais correções menores se necessárias.
+- Preparação e execução do sobrevoo lunar: configurações de cabine/SAWs, janelas e sensores para observação e documentação.
+- Pós-sobrevoo: transição para cruzeiro de retorno, validações de sistemas e preparação para reentrada/amerissagem.
+
+F) Confiança da análise
+- Alta

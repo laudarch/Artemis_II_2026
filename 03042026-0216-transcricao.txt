@@ -172,3 +172,57 @@
 
 [04:26:50] Thank you, sir. You too.
 
+[06:19:19] Houston Integrity, do you want us doing memorized response?
+
+[06:20:03] Hey Reed, heard your question, but we had to get out of crew sleep configuration.
+
+[06:20:26] No, you do not need to respond to this, and we will get that inhibited. This is still residual that you were seeing earlier today. Okay, copy that. We have never seen this before, at least not earlier today. We didn't see it on board.
+
+[06:20:47] Copy read, no, I'm sorry, I was mistaken on that. It's understood though, no response required. We'll get you an explanation tomorrow when you wake up.
+
+[06:20:51] and we'll suppress it for now. OK, so for the enabled caution...
+
+[06:20:59] Drop, plus X manifold, run box fail. No action on the crew.
+
+[06:21:03] Yes, that's a good read back.
+
+[06:21:08] Copy all, thanks.
+
+[06:23:33] Houston, one additional comment for the EVA caution.
+
+[06:23:43] Go ahead, Reed.
+
+[06:23:59] Like, we carried out the first little bit of action for a memory response for that caution, so we did not secure SM prep, but we did...
+
+[06:24:05] we've done the first step of that, which was to arm the secure command, so...
+
+[06:24:34] We are just standing by. We're not sending the secure prop. Obviously, we've stood down on that. But we want to make sure we're synced with you when we back out of that, if you would like us to send the safe command, or if you would like to clean that up from Houston. We're checking.
+
+[06:25:29] All right, Reed, if you don't mind, we would appreciate you to hit the safe button. We're not sure we can do that here from the ground, so we'll just let you all do it. Okay, sounds good. We're going to take that action now.
+
+[06:26:13] Houston, we think we are back in the nominal config for that two-step command.
+
+[06:26:24] All right Reid, thank you very much. Sorry for the ping. You guys can run off back to bed, enjoy the rest of your night.
+
+[06:26:34] I really appreciate that, and just confirm that we can use toilet.
+
+[06:26:45] That is confirmed. Go for toilet.
+
+[06:27:26] Hey Houston, since we're awake and we are definitely going back to bed, but if you've got just any initial thoughts on why that caution is continuously ringing, we'd appreciate it.
+
+[06:27:36] Yeah, no problem, Ray. Let me gather the words for you. I'll get back to you. Okay, thanks.
+
+[06:29:38] Integrity Houston for the prop caution.
+
+[06:29:42] Go ahead.
+
+[06:29:48] All right, Reed, so, post-TLI.
+
+[06:30:34] This is, we've been watching the tanks, the oxid tanks here, and they've been going through their thermal stabilization. So this was an expected response from the burn, although we weren't expecting to be sitting on this margin here on this, on the caution here for the plus X runbox. So that was the piece that caught us. As far as upcoming burns, like for OTC1, we would be doing a repressurization of the system anyways and that's part of the plan. And so that would put us back into the middle of the runbox for us to be prepared for that if needed.
+
+[06:31:01] All right, Heath, thanks for chewing on that one, and we'll talk more in the morning for sure.
+
+[06:31:11] Sounds great. Y'all enjoy the rest of your night.
+
+[06:31:16] All right, thanks. Glad you guys are there.
+
