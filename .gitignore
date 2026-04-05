@@ -1,10 +1,28 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual envs
 .venv/
 venv/
 env/
-*.log
+
+# OS
 .DS_Store
 Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Local runtime / cache
+*.log
+*.wav
+*.pcm
+*.tmp
+
+# Optional local secrets
+.env
+.env.*
