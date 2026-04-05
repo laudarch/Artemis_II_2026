@@ -1,0 +1,108 @@
+04-04-2026 - 15:00
+
+A) Fase atual mais provável
+- 9) Cruzeiro translunar (outbound), a caminho do sobrevoo lunar no Dia de Voo 6.
+
+B) Resumo executivo
+- A Orion/Integrity está saudável e em ótima trajetória após uma TLI muito precisa; as duas primeiras queimas OTC foram canceladas por não serem necessárias. A equipe realizou com sucesso atividades de comunicação, inspeção externa, exercícios, testes de sistemas e uma segunda demonstração de pilotagem manual (comparando 6-DOF vs 3-DOF). 
+- Principais desafios: obstrução por gelo na ventilação do tanque de águas residuais (urina) – mitigada com aquecimento solar e, depois, com abertura da vent primária que voltou a fluir intermitentemente; linha de hélio do sistema de pressurização do MON isolada por comportamento de pressão fora da “família”, com redundância operacional preservada; falha de um laptop de bordo (mitigada por compartilhamento). 
+- Preparação científica intensa para o flyby (inclui eclipse solar visto da Orion), com planos e alvos revistos em função da iluminação lunar do lançamento. LOS de comunicação previstas e gerenciadas. Possível ajuste futuro na área de amerissagem por meteorologia ainda incerta.
+
+C) Linha do tempo avaliada
+- ✅ TLI extremamente precisa; inserção com erro <1% e SLS “on the mark”.
+- ✅ OTC-1 e OTC-2 canceladas por trajetória excelente; OTC-3 prevista para amanhã.
+- ✅ Teste de “search/acquire/track” do sistema de comm Orion e teste DSN de emergência concluídos.
+- ✅ Inspeção externa do TPS/backshell sem danos; melhor que em Artemis I.
+- ✅ PAO/entrevistas NBC e CBS realizadas com bom vídeo/áudio; sincronismo verificado.
+- ✅ Planejamento detalhado do sobrevoo lunar (alvos científicos, transição near/far side, eclipse ~53 min).
+- ✅ “SAW selfie”/retrato da tripulação nas janelas concluído.
+- ✅ Exercícios físicos e registro em vídeo do ergômetro/volante de inércia para dados de engenharia.
+- ✅ AGA com troca de baterias e leituras normais; sem indicativos de gases anômalos.
+- ✅ Demonstração de pilotagem manual parte 2 (6-DOF vs 3-DOF) executada; feedback positivo de manobrabilidade e acoplamentos mínimos/previstos.
+- 🟨 Ventilação do tanque de águas residuais: obstrução por gelo; uso de CUDs (urinários de contingência) como workaround; após aquecimento solar, abertura da vent primária mostrou fluxo intermitente (“blizzard”) e redução do nível do tanque.
+- 🟨 Banheiro: no-go para urina em fases; go para fezes durante eventos controlados; gestão fina do cronograma de dumps.
+- 🟨 Hélio/pressurização MON: um ramo isolado por leve elevação de pressão fora de família; ramo secundário saudável; pressurização do tanque suficiente para as queimas remanescentes; abortos protegidos.
+- 🟨 Odor na baía de higiene/UWMS (não biológico) sob investigação; hipótese de off-gassing de materiais; AGA normal.
+- 🟨 Falha de um PCD (laptop) da Christina; mitigado por compartilhamento; relato prévio de possível “radiation hit” em outro computador.
+- ✅ LOS/DSN gerenciadas (inclui forward-link LOS); uplink de opções de aborto atualizado.
+- 🟨 Meteorologia de amerissagem ainda incerta (muito cedo); possível deslocamento da área no Pacífico se necessário.
+
+D) Riscos técnicos observados
+- 🟨 Sistema de águas residuais/urina: risco de nova formação de gelo/entupimento e necessidade de gestão frequente de dumps; impacto em conforto/rotina da tripulação. Mitigação: apontamento térmico, abertura prolongada da vent primária (limite de 3 h), CUDs e coordenação com timeline crítico.
+- 🟨 Pressurização do MON (ramo de hélio isolado): risco baixo no perfil nominal (pressão já adequada no tanque); manter monitoramento e prontidão para alternar ramos em cenários de aborto.
+- 🟨 SEUs/radiação em PCDs: risco de upsets pontuais em eletrônica de bordo; mitigado por redundância, compartilhamento e suporte de TI/sincronização manual.
+- 🟨 Odor não identificado na baía de higiene: potencial off-gassing; baixa probabilidade de perigo (AGA normal), mas segue em troubleshooting.
+- 🟨 Recuperação: incerteza meteorológica de longo prazo pode exigir deslocamento da área de amerissagem; acompanhamento contínuo.
+
+E) Próximas fases prováveis
+- Continuação do cruzeiro translunar: 
+  - Execução do OTC-3 para refino fino da trajetória.
+  - Demonstração OCSS (OxO2) dos trajes laranja: pressurização, checagem de vazamentos, nutrição/hidratação contingente.
+  - Continuidade do troubleshooting do sistema de águas residuais e gestão de dumps.
+- 10) Sobrevoo lunar/ops próximas à Lua:
+  - Janelas de observação científica no near/far side, registro fotométrico e descrições visuais.
+  - Eclipse solar visto da Orion; perda de sinal no far side (~40 min).
+- 11) Cruzeiro de retorno e preparação para reentrada:
+  - Avaliar meteorologia e posicionamento de navios de recuperação.
+  - Preparar sequência de EDL e coordenação de recuperação.
+
+F) Confiança da análise
+- Alta. Baseada em chamadas formais de Controle de Missão, briefings técnicos e comunicações operacionais detalhadas.
+
+
+05-04-2026 - 00:23:
+
+A) Fase atual mais provável
+- 9. Cruzeiro translunar (rumo ao sobrevoo lunar no Dia de Voo 6)
+
+B) Resumo executivo
+- Orion/Integrity em trajetória de retorno livre, com TLI muito preciso; OTC-1 e OTC-2 cancelados por não serem necessários. Distância à Lua ~92–99 mil milhas ao longo do período; metade do caminho já ultrapassada.
+- Operações e testes em cruzeiro com bom ritmo: demonstração de pilotagem manual (6DOF vs 3DOF) concluída, comunicações DSN e modo “search/acquire/track” testados, inspeção externa nominal e downlinks de alta qualidade via óptico (em janelas de sono).
+- Questão operacional em curso: obstrução por gelo na ventilação de águas residuais (linha primária do vaso). Fluxo restabelecido após apontamento ao Sol; tripulação segue usando CCUs para urina; sanitário liberado para fezes. Impacto operacional gerenciável, sem efeito no flyby.
+- Pequenas anomalias monitoradas: odor de “aquecedor empoeirado” sem assinatura em analisadores; PCD da Christina falhou (provável radiação), mitigado com PCs de reserva; ramo de hélio do MON isolado por comportamento de pressão fora da família, redundância preservada e queimas restantes cobertas com margem.
+- Preparação científica intensa para o sobrevoo: pacote de alvos revisado por toda a tripulação, foco em transição lado próximo/lado distante, bacia Orientale, Earthrise e eclipse solar (~53 min) vistos do ponto de vista de Orion.
+
+C) Linha do tempo avaliada
+- ✅ TLI preciso; inserção e trajetória “no centro”, OTC-1/2 cancelados.
+- ✅ SLS com desempenho “melhor que Artemis I”; acurácia de inserção <1%.
+- ✅ Inspeção externa do Orion: backshell/TPS e fitas em bom estado; melhor que Artemis I.
+- ✅ Testes de comunicação: DSN emergência, “search/acquire/track” OK.
+- ✅ Óptico: downlink de gigabytes de imagens durante janelas disponíveis.
+- ✅ PAO/entrevistas (NBC/CBS) e “SAW family portrait” concluídos.
+- ✅ Exercícios físicos realizados; coordenação com painéis solares para vibração.
+- ✅ AGA (analyzer) operante; troca de baterias concluída.
+- ✅ Demonstração de pilotagem manual (6DOF vs 3DOF) concluída; dados de acoplamento (roll/yaw) coletados; controle responsivo.
+- 🟨 Sanitário/águas residuais: obstrução por gelo na ventilação; fluxo primário restabelecido após aquecimento solar; CCUs em uso para urina; sanitário GO para fezes; operação contínua de “dumps” secundários/primários.
+- 🟨 Odor tipo “aquecedor empoeirado”: sem detecção de gases anômalos; provável off‑gassing mecânico; investigação em curso.
+- 🟨 PCD da Christina falhou (provável radiação); mitigado com PCs remanescentes; margem reduzida, impacto baixo.
+- 🟨 Ramo de hélio do MON isolado por pressão fora da família; ramo redundante saudável; queimas remanescentes pequenas e cobertas sem pressurização adicional; abortos ainda protegidos.
+- ✅ Planejamento científico do flyby fechado; alvos e cronograma revisados por todos.
+- 🟨 Splashdown: meteorologia final ainda incerta; avaliação mais acurada D+2/D+3 antes da reentrada.
+
+D) Riscos técnicos observados
+- Vent/banheiro (urina) com gelo na linha primária
+  - Impacto: conforto/cronograma, manejo de consumíveis e apontamento térmico/potência para degelo.
+  - Mitigação: apontamento ao Sol, dumps contínuos (primário/secundário), CCUs; objetivo ventilar até ~10% do tanque antes de reabrir urina.
+- Odor não identificado na baía de higiene/UWMS
+  - Impacto: baixo no momento; segurança monitorada por AGA; provável off‑gassing de materiais/fitas.
+- PCD avariado por radiação
+  - Impacto: redução de redundância de computação de bordo; mitigado por revezamento de PCDs; monitorar SEUs/rad‑hits.
+- Linha de hélio do MON isolada
+  - Impacto: baixo para missão nominal; margem ampla para TCMs; manter vigilância para cenários de abortos.
+- Janelas DSN/LOS planejadas
+  - Impacto operacional baixo; cronograma e coordenação de eventos ajustados.
+- Meteorologia de splashdown ainda incerta
+  - Impacto potencial na seleção de área e logística de recuperação; decisão mais próxima da reentrada.
+
+E) Próximas fases prováveis
+- Continuação do cruzeiro translunar com OTC-3 (se necessário) para refino fino.
+- Demonstração do traje OCSS (OxO2) e checks de cabina em configuração de sobrevivência.
+- Entrada na esfera de influência lunar (LOI gravítica) no DV5.
+- Dia de Voo 6: sobrevoo lunar
+  - Observações científicas (lado próximo → transição → lado distante), Earthset/Earthrise, eclipse solar (~53 min).
+  - ~40 min de LOS atrás da Lua.
+- Ajustes de trajetória de retorno (se aplicável), cruzeiro de volta.
+- Preparação para reentrada, amerissagem e recuperação.
+
+F) Confiança da análise
+- Alta
